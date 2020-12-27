@@ -1,0 +1,7 @@
+// modern React udemy training modern react 2020 steven grinder
+
+// repetition state 
+- state is always relevant to one component
+- update state causes the component to rerender
+- state must be initialized when a component is created
+- state can only be updated using the function 'setState'
